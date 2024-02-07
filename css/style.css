@@ -12,3 +12,6 @@
   
   .gallery-item img {
     width: 100%; }
+    .gallery-image:hover {
+      transform: scale(1.1);
+    }
